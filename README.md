@@ -23,6 +23,6 @@ Dependencies that need to be installed before the project can be used.
 
 1. ionic integrations enable capacitor
 2. npm i @capacitor/app @capacitor/haptics @capacitor/keyboard @capacitor/status-bar
-3. ionic capacitor add android / ionic capacitor add ios
+3. ionic capacitor sync android / ionic capacitor sync ios
 4. ionic capacitor open android
 

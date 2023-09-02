@@ -136,7 +136,7 @@
   </template>
   
   <script lang="ts">
-    import { IonButtons, IonContent, IonHeader, IonMenu, IonMenuButton, IonPage, IonTitle, IonToolbar, IonText, IonImg, IonProgressBar, IonChip, IonCard, IonCardHeader, IonCardSubtitle, IonCardTitle, IonAvatar, IonList, IonButton, IonRouterOutlet, useIonRouter, IonItem, IonLabel } from '@ionic/vue';
+    import { IonButtons, IonContent, IonHeader, IonMenu, IonMenuButton, IonPage, IonTitle, IonToolbar, IonText, IonImg, IonProgressBar, IonChip, IonCard, IonCardHeader, IonCardSubtitle, IonCardTitle, IonAvatar, IonList, IonButton, IonRouterOutlet, useIonRouter, IonItem, IonLabel, IonBadge,  IonCardContent, } from '@ionic/vue';
     import { defineComponent } from 'vue';
     import { useRouter } from 'vue-router';
 
@@ -155,7 +155,7 @@
         IonProgressBar,
         IonChip,
         IonCard, IonCardHeader, IonCardSubtitle, IonCardTitle,
-        IonAvatar, IonList, IonButton, IonRouterOutlet, IonItem, IonLabel,
+        IonAvatar, IonList, IonButton, IonRouterOutlet, IonItem, IonLabel, IonBadge, IonCardContent, 
     },
     setup() {
       const router = useRouter();
