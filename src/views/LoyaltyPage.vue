@@ -9,7 +9,7 @@
                 </ion-avatar>
                 <img class="medium" src="https://cdn-icons-png.flaticon.com/512/2385/2385865.png">
                 <a href="/loyalty"><p>0 Points</p></a>
-                <img  class="small" src="https://cdn1.iconfinder.com/data/icons/arrows-vol-1-5/24/Forward2-512.png">
+                <a href="/loyalty"><img  class="small" src="https://cdn1.iconfinder.com/data/icons/arrows-vol-1-5/24/Forward2-512.png"></a>
             </div>
            <div class="ion-margin-start">
                 <div> 
