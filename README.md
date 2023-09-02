@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-List any software or dependencies that need to be installed before the project can be used.
+Dependencies that need to be installed before the project can be used.
 
 ```bash
 - Node.js
