@@ -219,7 +219,7 @@
 </template>
 
 <script lang="ts">
-  import { IonButtons, IonContent, IonHeader, IonMenu, IonMenuButton, IonPage, IonTitle, IonToolbar, IonAvatar, IonRow, IonCol, IonImg, IonFab, IonFabButton, IonIcon, IonSearchbar, IonRouterOutlet, IonList, IonButton } from '@ionic/vue';
+  import { IonButtons, IonContent, IonHeader, IonMenu, IonMenuButton, IonPage, IonTitle, IonToolbar, IonAvatar, IonRow, IonCol, IonImg, IonFab, IonFabButton, IonIcon, IonSearchbar, IonRouterOutlet, IonList, IonButton, IonItem, IonLabel, } from '@ionic/vue';
   import { defineComponent } from 'vue';
   import { useRouter } from 'vue-router';
 
@@ -238,7 +238,7 @@
       IonImg,
       IonAvatar,
       IonFab, IonFabButton, IonIcon, IonSearchbar,
-      IonRouterOutlet, IonList, IonButton,
+      IonRouterOutlet, IonList, IonButton, IonItem, IonLabel,
     },
     setup() {
       const router = useRouter();
