@@ -1,0 +1,7 @@
+{
+  "name": "fe-exam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
